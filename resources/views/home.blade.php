@@ -21,6 +21,9 @@
                 </div>
                 @endforeach
             </div>
+            <div class="text-center">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
+            </div>
         </div>
     </div>
 </section>
