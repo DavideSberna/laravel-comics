@@ -23,11 +23,15 @@
             </div>
             <div class="text-center">
                 <h3>Prima Branch</h3>
-                <p>Primo: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
+                <p>Primo: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea. <a href="http://">qui</a></p>
+                <div class="card">
+                    
+                    <h1>Primo</h1>
+                </div>
             </div>
             <div class="text-center">
                 <h3>Seconda Branch</h3>
-                <p>Secondo: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
+                <p>Secondo: Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos, vel! dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
             </div>
         </div>
     </div>
