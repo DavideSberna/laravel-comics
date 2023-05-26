@@ -22,7 +22,10 @@
                 @endforeach
             </div>
             <div class="text-center">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
+                <p>Primo: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
+            </div>
+            <div class="text-center">
+                <p>Secondo: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, nihil? Pariatur doloremque nihil aperiam minima fugit incidunt, tenetur explicabo ea.</p>
             </div>
         </div>
     </div>
